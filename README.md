@@ -6,9 +6,6 @@ Pokedex App is a mobile application developed using Flutter with RiverPod State 
 
 - Display a list of Pokémon
 - Show detailed information for each Pokémon
--
-- Search Pokémon by name or ID
-- Filter Pokémon by type
 - Add favorite Pokémon
 
 ## Requirements
