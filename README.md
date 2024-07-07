@@ -20,7 +20,7 @@ Follow these steps to install and run the Pokedex app locally:
 
    ```bash
    git clone https://github.com/farhanhl/PokeDex.git
-   cd pokedex-app
+   cd pokedex
    ```
 
 2. **Install Dependencies**
